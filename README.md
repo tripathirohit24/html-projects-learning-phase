@@ -9,11 +9,15 @@ Each subfolder in this repository represents a mini-project focusing on various 
 
 ---
 
+
+---
+
 ## 📌 Projects
 
-| Project   | Description                        |
-|-----------|------------------------------------|
-| project1  | Basic HTML page with simple content|
+| Project   | Description                                      |
+|-----------|--------------------------------------------------|
+| project1  | Basic HTML page with heading, paragraph, and image |
+| project2  | Image as a clickable link that redirects to another HTML page |
 
 ---
 
@@ -26,4 +30,5 @@ This repository serves as my personal learning space where I practice and improv
 ## 📬 Feedback
 
 Feel free to explore or suggest improvements. I’m learning and open to feedback!
+
 
